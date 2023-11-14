@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex:04 Places Around Me
 ## Date: 28/10/2023 
 
 ## AIM
@@ -203,6 +203,15 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
+![web ex 4](https://github.com/Mugilan212/NearMe/assets/144508901/3d5eda9b-b74a-4963-87d8-f5fd747fd2f2)
+![map1](https://github.com/Mugilan212/NearMe/assets/144508901/f9f0d123-aff5-4884-803e-b3033e6b9bc8)
+![web ex 4 1](https://github.com/Mugilan212/NearMe/assets/144508901/564262ec-2c2f-4780-9fa3-6952e1bde8af)
+![web ex 4 2](https://github.com/Mugilan212/NearMe/assets/144508901/d9a179ec-c4ac-4958-97ed-f4f77eb6d07d)
+![web ex 4 3](https://github.com/Mugilan212/NearMe/assets/144508901/66623934-a185-40e6-a005-c7e31a337713)
+![web ex 4 4](https://github.com/Mugilan212/NearMe/assets/144508901/49765a98-80a5-440f-b672-b6f2f9a70737)
+![web ex 4 5](https://github.com/Mugilan212/NearMe/assets/144508901/6ca20e72-5c6f-4fad-8d50-f37d3528ddd6)
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
